@@ -6,6 +6,13 @@
       "email": "fee@m.c",
       "password": "1234",
       "gender": "Female"
+    },
+    {
+      "id": 2,
+      "fullname": "fee",
+      "email": "faaa@m.c",
+      "password": "1111",
+      "gender": "Female"
     }
   ]
 }
